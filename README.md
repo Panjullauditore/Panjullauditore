@@ -12,7 +12,7 @@ i can fix you
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-CSS-333333?style=flat&logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=blue)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
