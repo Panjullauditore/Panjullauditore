@@ -18,8 +18,8 @@ i can fix you
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
+![HTML](https://img.shields.io/badge/HTML-333333?style=flat&logo=html5&logoColor=orange)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css&logoColor=rebeccapurple)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 ## 📊 GitHub Stats
