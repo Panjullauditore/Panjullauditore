@@ -41,5 +41,6 @@ i can fix you
 ## 💼 Work/Education
 🏢 Currently studying at **Diponegoro University**
 📍 Based in **Indonesia**
+
 ---
 ⭐️ From [Panjullauditore](https://github.com/Panjullauditore)
