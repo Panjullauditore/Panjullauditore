@@ -33,7 +33,7 @@ i can fix you
 
 ## 📈 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Panjullauditore&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF7F&line=00FF7F&point=ffffff)
-![Snake Game](https://raw.githubusercontent.com/panjullauditore/panjullauditore/output/pacman-contribution-graph-dark.svg)
+![Pacman Game](https://raw.githubusercontent.com/panjullauditore/panjullauditore/output/pacman-contribution-graph-dark.svg)
 
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadfahrezi7/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/panjulauditore) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rezzinhere7/) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/486092112685694976) [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://www.portofolio.fun/)
