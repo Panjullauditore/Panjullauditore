@@ -24,12 +24,15 @@ i can fix you
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Panjullauditore&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=ffffff&icon_color=00FF7F)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=ffffff&icon_color=00FF7F)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Panjullauditore&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=ffffff)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Panjullauditore&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-github&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7)
+
+## 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-github&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF7F&line=00FF7F&point=ffffff)
 
 ## 🤝 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadfahrezi7/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/panjulauditore) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rezzinhere7/) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/486092112685694976) [![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://www.portofolio.fun/)
