@@ -85,10 +85,10 @@
 
 <div align="center">
   <a href="https://github.com/Panjullauditore">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Panjullauditore&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&icon_color=00FF41&ring_color=00D4FF&count_private=true&include_all_commits=true&custom_title=W+Stats" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Panjullauditore&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&icon_color=00FF41&ring_color=00D4FF&count_private=true&include_all_commits=true&custom_title=GitHub+Stats&hide=stars" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Panjullauditore">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Panjullauditore&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8&custom_title=Weapon+Loadout" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Panjullauditore&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=c9d1d9&langs_count=8&custom_title=Top+Languages" alt="Top Languages" />
   </a>
 </div>
 
@@ -96,7 +96,7 @@
 
 <div align="center">
   <a href="https://github.com/Panjullauditore">
-    <img src="https://streak-stats.demolab.com/?user=Panjullauditore&hide_border=true&background=0D1117&ring=00D4FF&fire=00FF41&currStreakLabel=00D4FF&sideLabels=c9d1d9&currStreakNum=00FF41&sideNums=c9d1d9&dates=555555&stroke=00D4FF00" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panjullauditore&hide_border=true&background=0D1117&ring=00D4FF&fire=00FF41&currStreakLabel=00D4FF&sideLabels=c9d1d9&currStreakNum=00FF41&sideNums=c9d1d9&dates=555555&stroke=00D4FF00" alt="GitHub Streak" />
   </a>
 </div>
 
