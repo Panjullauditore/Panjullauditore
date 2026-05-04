@@ -96,7 +96,7 @@
 
 <div align="center">
   <a href="https://github.com/Panjullauditore">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panjullauditore&hide_border=true&background=0D1117&ring=00D4FF&fire=00FF41&currStreakLabel=00D4FF&sideLabels=c9d1d9&currStreakNum=00FF41&sideNums=c9d1d9&dates=555555&stroke=00D4FF00" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Panjullauditore&hide_border=true&background=0D1117&ring=00D4FF&fire=00FF41&currStreakLabel=00D4FF&sideLabels=c9d1d9&currStreakNum=00FF41&sideNums=c9d1d9&dates=555555&stroke=00D4FF00" alt="GitHub Streak" />
   </a>
 </div>
 
