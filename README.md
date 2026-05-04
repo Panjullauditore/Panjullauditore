@@ -5,10 +5,10 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=no+cap+i+lowkey+love+coding+%F0%9F%92%80;built+different%2C+code+different+%F0%9F%94%A5;debugging+at+3am+is+a+lifestyle+%F0%9F%8C%99;trust+the+process+bro+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=45&lines=no+cap+i+lowkey+love+coding+%F0%9F%92%80;built+different%2C+code+different+%F0%9F%94%A5;debugging+at+3am+is+a+lifestyle+%F0%9F%8C%99;trust+the+process+bro+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <!-- Badges - using simple labels without emoji in URL -->
   <a href="https://github.com/Panjullauditore"><img src="https://komarev.com/ghpvc/?username=Panjullauditore&label=PROFILE+VIEWS&color=00D4FF&style=for-the-badge" alt="Profile Views" /></a>
