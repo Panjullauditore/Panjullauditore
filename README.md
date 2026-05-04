@@ -1,36 +1,48 @@
 <div align="center">
   
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:003300,100:00FF7F&height=220&section=header&text=Ahmad%20Fahrezi&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=I%20can%20fix%20you%20🔧&descAlignY=55&descSize=18&descColor=00FF7F&animation=twinkling" width="100%" />
+
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FF7F&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there%2C+I'm+Ahmad+Fahrezi+%F0%9F%91%8B;I+can+fix+you+%F0%9F%94%A7" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Full+Stack+Developer+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%8C%B1;Let's+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
-  <!-- Visitor Counter -->
   <br/>
+
+  <!-- Visitor Counter + Followers -->
   <img src="https://komarev.com/ghpvc/?username=Panjullauditore&label=Profile%20Views&color=00FF7F&style=for-the-badge&abbreviated=true" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Panjullauditore?label=Followers&style=for-the-badge&color=00FF7F&labelColor=0D1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Panjullauditore?affiliations=OWNER&style=for-the-badge&color=00FF7F&labelColor=0D1117&label=Total%20Stars" alt="Stars" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```yaml
-name: Ahmad Fahrezi
-located_in: Indonesia 🇮🇩
-education: Diponegoro University
-current_project: Simple landing page for a company
-fields_of_interest:
-  - Web Development
-  - Frontend Engineering
-  - UI/UX Design
-hobbies:
-  - Coding
-  - Music
-  - Gaming
-fun_fact: "I'm kinda introverted 🤫"
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 Ahmad Fahrezi</h3>
+      <p>
+        <img src="https://img.shields.io/badge/📍-Indonesia-00FF7F?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/🎓-Diponegoro_University-00FF7F?style=flat-square&labelColor=0D1117" />
+      </p>
+      <ul>
+        <li>🔭 Working on <b>Landing pages for companies</b></li>
+        <li>🌱 Learning & exploring <b>new technologies</b></li>
+        <li>👯 Open to <b>collaborate</b> on cool projects</li>
+        <li>💬 Ask me about <b>anything</b>, happy to help!</li>
+        <li>🎵 Into <b>coding, music & gaming</b></li>
+        <li>🤫 Fun fact: <i>I'm kinda introverted</i></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Technologies & Tools
 
@@ -56,12 +68,20 @@ fun_fact: "I'm kinda introverted 🤫"
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Panjullauditore&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=ffffff&icon_color=00FF7F&ring_color=00FF7F&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Panjullauditore&theme=dark&hide_border=true&background=0D1117&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" />
+  <a href="https://github.com/Panjullauditore">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Panjullauditore&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=ffffff&icon_color=00FF7F&ring_color=00FF7F&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Panjullauditore">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Panjullauditore&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panjullauditore&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/Panjullauditore">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Panjullauditore&theme=dark&hide_border=true&background=0D1117&ring=00FF7F&fire=FF6B35&currStreakLabel=00FF7F&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&stroke=00FF7F" alt="GitHub Streak" />
+  </a>
 </div>
 
 ## 🏆 GitHub Trophies
@@ -73,7 +93,7 @@ fun_fact: "I'm kinda introverted 🤫"
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panjullauditore&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF7F&line=00FF7F&point=ffffff&area=true&area_color=00FF7F" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Panjullauditore&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF7F&line=00FF7F&point=FF6B35&area=true&area_color=00FF7F&custom_title=Panjullauditore's%20Contribution%20Graph" alt="Activity Graph" />
 </div>
 
 ## 🐍 Contribution Snake
@@ -101,5 +121,5 @@ fun_fact: "I'm kinda introverted 🤫"
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF7F&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:003300,100:00FF7F&height=100&section=footer" width="100%" />
 </div>
